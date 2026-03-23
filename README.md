@@ -31,7 +31,7 @@ cd UniversalFakeDetect
 
 2. Install the necessary libraries
 ```bash
-pip install torch torchvision
+pip install torch torchvision packaging
 ```
 
 ## Data
